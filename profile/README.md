@@ -12,7 +12,7 @@
 
 #### At Streamstralis, we are commited to help Apache Aurora come back to life 💚
 
-<h2 style="color:lightseagreen;font-style:italic;">ℹ <span style="color:snow;font-style:normal;">About Us</span></h2>
+### 🛈 About Us
 
 ### Logo
 
