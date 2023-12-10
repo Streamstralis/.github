@@ -6,7 +6,7 @@
 
 <hr>
 
-### Sadly, it was discontinued a long time ago 😥
+### Sadly, it was archived a long time ago 😥
 
 <hr>
 
